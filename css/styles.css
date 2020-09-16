@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #0892d0;
   text-decoration: underline;
 }
 
@@ -10064,7 +10064,8 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    /* border: 0.5rem solid rgba(255, 255, 255, 0.2); */
+    border: 0.5rem solid rgba(8, 146, 208, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
